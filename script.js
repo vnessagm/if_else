@@ -38,13 +38,3 @@ console.log("Seu sobrenome tem mais de seis letras e ou seu nome começa com e")
     console.log("Seu sobrenome não tem mais de 6 letras")
 }
 
-for (let i = 1; i<= 10; i++){
-    console.log(i)
-}
-
-let cont= 10
-while (cont >=1){
-    console.log(cont)
-    cont --
-
-}
